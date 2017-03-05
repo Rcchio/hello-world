@@ -1,2 +1,2 @@
 # hello-world
-My first repository.
+I'm Rcchio,I'm a student in university now.
